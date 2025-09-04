@@ -100,8 +100,4 @@ Legenda:
 * MEC/INEP – IDEB e SAEB (2015–2023).
 * Prefeituras de Campina Grande, Queimadas, Ingá, João Pessoa.
 
----
 
-👉 Esse README é ideal para GitHub ou apresentação de projeto: tem **impacto visual, dados organizados e conclusões claras**.
-
-Quer que eu **monte também gráficos (ex.: barras de evasão vs intensidade)** para inserir no README como imagens?
