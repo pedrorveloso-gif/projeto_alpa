@@ -1,7 +1,5 @@
 
-# 📘 IMPACTO DE PROGRAMAS SOCIAIS
-NA EVASÃO ESCOLAR: UMA ANÁLISE DAS
-AÇÕES DO INSTITUTO ALPARGATAS
+# 📘 IMPACTO DE PROGRAMAS SOCIAIS NA EVASÃO ESCOLAR: UMA ANÁLISE DAS AÇÕES DO INSTITUTO ALPARGATAS
 
 Este repositório contém a análise preliminar sobre o **Instituto Alpargatas** e seu impacto em municípios da Paraíba, Pernambuco, Minas Gerais e São Paulo.
 O estudo cruza **indicadores educacionais (evasão, aprovação e reprovação)** com a **intensidade dos projetos sociais** do Instituto, identificando municípios mais e menos atendidos e apontando estratégias de melhoria.
